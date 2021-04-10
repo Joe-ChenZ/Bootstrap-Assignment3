@@ -77,20 +77,3 @@ body {
     z-index: 1;
 }
 
-.interface-header {
-    background-color:  #512DA8;
-    color: white;
-    /* @background-light: #9575CD; */
-}
-
-.interface-body {
-    background-color:  #D1C4E9;
-}
-
-.close {
-    color:white;
-}
-
-/* .modal {
-    padding:0px 0px 0px 0px;
-} */
